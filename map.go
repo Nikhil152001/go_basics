@@ -1,22 +1,22 @@
 package main
 
-import "fmt"
+// import "fmt"
 
-func main() {
+// func main() {
 
-	myMap := map[string]int{
-		"nikhil":  5,
-		"friend": 7,
-		"sonal": 3,
-	}
+// 	myMap := map[string]int{
+// 		"nikhil":  5,
+// 		"friend": 7,
+// 		"sonal": 3,
+// 	}
 
-	key := "friend"
+// 	key := "friend"
 
-	if value, ok := myMap[key]; ok {
+// 	if value, ok := myMap[key]; ok {
 
-		fmt.Printf("Key '%s' is present in the map with value %d\n", key, value)
-	} else {
+// 		fmt.Printf("Key '%s' is present in the map with value %d\n", key, value)
+// 	} else {
 
-		fmt.Printf("Key '%s' is NOT present in the map\n", key)
-	}
-}
+// 		fmt.Printf("Key '%s' is NOT present in the map\n", key)
+// 	}
+// }

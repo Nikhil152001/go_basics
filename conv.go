@@ -20,3 +20,6 @@ package main
 // 		fmt.Println("String to Integer:", intFromStr)
 // 	}
 // }
+
+// convert float to int , int to float
+   
